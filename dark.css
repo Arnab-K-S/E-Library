@@ -15,12 +15,12 @@ body{
 span {
   display: block;
     /* font-family: "Alliance No.1",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji" */
-    padding: 5px;
-    width: 800px;
-    height: 50px;
+    padding: 5%;
+    width: 800%;
+    height: 150%;
     text-align: center;
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left: 30%;
+    margin-right: 30%;
     border-radius: 10px;
     /* box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.555), 0 6px 20px 0 rgba(0, 0, 0, 0.618); */
         /* background-image: linear-gradient(to bottom   right, rgba(72, 0, 255, 0.743), #00ffbb); */
