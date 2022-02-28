@@ -49,13 +49,15 @@ ul {
     background-color: #333;
 }
 .container2{
-   border-radius: 10%;
+   border-radius: 5%;
    margin: 80px;
     overflow-x: scroll;
     display: flex;
     /* display: none; */
+   background: #3f1500;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.576), 0 6px 20px 0 rgba(0, 0, 0, 0.639);
-   background-image: url("images/self.jpg");
+/*    background-image: url("images/self.jpg"); */
+   
     /* background-size: 30%; */
   /* opacity: 0.8; */
 }
