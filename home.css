@@ -2,9 +2,6 @@ h1{
    font-family: Arial, Helvetica, sans-serif;
    font-size: 45px;
 }
-.fullbody{
-  display: flexbox;
-}
 .header{
   display: flex;
     position:static;
@@ -78,7 +75,7 @@ img{
     width: 100px;
 }
 .cards{
-       margin-left: 18%;
+       margin-left: 20%;
     margin-right: 80px;
         font-family: "Lucida Console", "Courier New", monospace;
     margin-top: 50px;
