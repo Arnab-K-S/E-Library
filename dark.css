@@ -50,9 +50,7 @@ ul {
     display: flex;
     /* display: none; */
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.576), 0 6px 20px 0 rgba(0, 0, 0, 0.639);
-   background-image: url("images/bluespot.jpg");
-    background-size: 30%;
-    background-repeat: repeat-x;
+  background: #020204;
   /* opacity: 0.5; */
 }
 .container2:hover{
