@@ -117,3 +117,6 @@ img {
     text-align: center;
     height: 500px;
 }
+.gmail:hover {
+    color: rgb(241, 59, 59);
+}
