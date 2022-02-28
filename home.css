@@ -7,7 +7,7 @@ h1{
 }
 .header{
   display: flex;
-    position:static;
+/*     position:static; */
     display: flex;
     width: auto;
      /* background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.743), rgb(0, 255, 149)); */
