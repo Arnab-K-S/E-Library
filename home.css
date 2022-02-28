@@ -50,7 +50,7 @@ ul {
 }
 .container2{
    border-radius: 5%;
-   margin: 80px;
+   margin: 2%;
     overflow-x: scroll;
     display: flex;
     /* display: none; */
@@ -60,10 +60,6 @@ ul {
    
     /* background-size: 30%; */
   /* opacity: 0.8; */
-}
-.container2:hover{
-  display: flex;
-opacity: 1;
 }
 .search {
     width: 1700px;
@@ -75,7 +71,7 @@ img{
     width: 100px;
 }
 .cards{
-       margin-left: 10%;
+       margin-left: 14%;
     margin-right: 80px;
         font-family: "Lucida Console", "Courier New", monospace;
     margin-top: 50px;
