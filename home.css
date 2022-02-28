@@ -5,11 +5,13 @@ h1{
 .gmail:hover {
     color: rgb(241, 59, 59);
 }
+
 .header{
   display: flex;
-/*     position:static; */
-    display: flex;
-    width: auto;
+    /* position:static; */
+    /* display: flex; */
+    width: 100%;
+    height:fit-content;
      /* background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.743), rgb(0, 255, 149)); */
     text-align: center;
 }
