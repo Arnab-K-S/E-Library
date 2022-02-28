@@ -82,7 +82,7 @@ img{
     margin-bottom: 50px;
     padding: 50px;
     align-items: center;
-    border-radius: 10%;
+    border-radius: 2%;
     background-image: linear-gradient(to bottom right, rgba(255, 255, 255, 0.798), rgba(172, 173, 146, 0.833));
     width: 100px;
     height: fit-content;
