@@ -4,7 +4,11 @@
 <head>
     <title>Log In</title>
     <link rel="stylesheet" href="signup.css">
-
+    <script type="text/javascript">
+        function Redirect() {
+            window.location.href = "http://127.0.0.1:5500/home.html";
+        }
+    </script>
 </head>
 
 <body>
@@ -23,7 +27,7 @@
                 </p>
                 <p class="signup">
                     <a href="home.html">
-                        <input class="button" type="submit" value="Log In">
+                        <input class="button" type="submit" value="Log In" onclick="Redirect()">
                     </a>
                 </p>
                 <p>
