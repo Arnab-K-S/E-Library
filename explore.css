@@ -70,10 +70,10 @@ li a:hover {
 
 .img {
     background-image: url("images/Audiobook.jpg");
-    padding: 80px;
+    padding: 15%;
     background-size: 60%;
     background-size: contain;
-    height: 120px;
+    height: 50%;
 }
 
 .plus {
