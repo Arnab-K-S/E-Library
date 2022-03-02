@@ -81,9 +81,10 @@ img{
     width: 100px;
 }
 .cards{
-       margin-left: 14%;
+    transition: ease-out 0.5s;
+    margin-left: 14%;
     margin-right: 80px;
-        font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Lucida Console", "Courier New", monospace;
     margin-top: 50px;
     margin-bottom: 50px;
     padding: 50px;
