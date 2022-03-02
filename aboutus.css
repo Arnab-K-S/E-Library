@@ -64,3 +64,8 @@ img {
     padding-right: 5%;
     align-items: center;
 }
+.footer-dark {
+    padding:30px 0;
+    color:#c1d0da;
+    background-color:#000000;
+  }
